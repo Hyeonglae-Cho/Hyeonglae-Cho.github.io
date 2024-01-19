@@ -69,6 +69,17 @@ descriptions:
 # * After each blog post for sharing widgets
 #
 # Example:
+
+related:
+  - name: Statistics, SNU
+    sitename: Dept of Statistics, SNU
+    url: https://stat.snu.ac.kr/
+    
+  - name: Multiscale Lab, SNU
+    sitename: Multiscale Lab
+    url: https://sites.google.com/view/snumultiscale/
+
+    
 #
 # social:
 #   - name: Twitter                         # Name of the service
