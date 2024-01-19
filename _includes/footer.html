@@ -37,9 +37,21 @@
       </ul>
     </div>
 
-    <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+    <div class="site-related">
+	    
+      <p><strong>Related sites</strong></p>
+      <ul class="related-site-list">
+        {% for related in site.related %}
+          {% if related.url != "" %}
+            <li>
+	      <a href="{{ related.url }}">
+		{% if related.sitename %}{{ related.sitename }}{% else %}{{ related.name }}{% endif %}
+	      </a>
+	    </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+	    
     </div>
 
   </div>
