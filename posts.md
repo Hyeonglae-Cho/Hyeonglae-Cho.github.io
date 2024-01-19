@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Posts"
+order: 7
 permalink: /posts/
 main_nav: true
 ---
