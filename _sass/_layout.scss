@@ -439,7 +439,7 @@ pre code.hljs {
 	/*
 	*	Site Description/Signature (right)
 	*/
-	.site-signature {
+	.site-related {
 		margin-top: 1em;
 		@include span-columns(12);
 		@include media ($tablet) {
@@ -448,8 +448,8 @@ pre code.hljs {
 			margin-top: 0;
 		}
 		font-size: 0.9em;
-		a {
-			text-decoration: underline;
+		ul {
+			@extend %default-ul
 		}
 	}
 }
