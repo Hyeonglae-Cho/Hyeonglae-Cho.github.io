@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Typography
+order: 8
 permalink: /typography/
 main_nav: true
 ---
