@@ -6,4 +6,7 @@ permalink: /softwares/
 main_nav: true
 ---
 
-To be updated
+[GSD: Graph Signal Decomposition][GSD]
+
+
+[GSD]: https://cran.r-project.org/web/packages/GSD/index.html
