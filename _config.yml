@@ -71,8 +71,12 @@ descriptions:
 # Example:
 
 related:
+  - name: Ohio State University, OSU
+    sitename: Department of Statistics, OSU
+    url: https://stat.osu.edu/
+
   - name: Statistics, SNU
-    sitename: Dept of Statistics, SNU
+    sitename: Department of Statistics, SNU
     url: https://stat.snu.ac.kr/
     
   - name: Multiscale Lab, SNU
