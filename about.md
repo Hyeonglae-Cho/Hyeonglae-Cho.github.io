@@ -10,7 +10,7 @@ main_nav: true
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 -->
 
-Hi. My name is Hyeonglae Cho. I'm master's student under the guidance of Prof. Hee-Seok Oh, in statistics at Seoul National University. My research intersts include Statistical Analysis on Non-Euclidean Data, Spatial Data Analysis, Machine Learning, and Deep Learning. My works until now can be found in my [Github page][HyeonglaeCho-github].
+Hi. My name is Hyeonglae Cho. I'm a Ph.D. student in statistics at Ohio State University. I have received my master's degree in statistics at Seoul National University under the guidance of Prof. Hee-Seok Oh. My research intersts include Statistical Analysis on Non-Euclidean Data, Spatial Data Analysis, Machine Learning, and Deep Learning. My works until now can be found in my [Github page][HyeonglaeCho-github].
 
 [HyeonglaeCho-github]: https://github.com/Hyeonglae-Cho
 
